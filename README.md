@@ -2,7 +2,7 @@
 
 🎓 UC Berkeley graduate in Statistics, passionate about marketing analytics and data storytelling  
 📊 Currently learning Tableau and SQL  
-💼 Working on data-driven marketing projects with CABS  
+💼 Working on data-driven AI projects with CABS  
 📍 Based in the SF Bay Area  
 💬 Interested in chatting about branding or marketing strategies powered by data  
 🎵 Fun fact: I love dancing!  
@@ -10,12 +10,14 @@
 
 ---
 
+
 ### 🛠️ Programming & Data Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-00000F?style=flat&logo=sqlite&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+🐍 Python • 📊 Data analysis & automation  
+🗃️ SQL • Querying databases  
+📈 R • Statistical modeling  
+📉 Tableau • Data visualization  
+
 
 ---
 
