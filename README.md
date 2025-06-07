@@ -1,17 +1,17 @@
 ## 👋 Hi, I'm Minji Kim
 
 🎓 UC Berkeley graduate in Statistics, passionate about marketing analytics and data storytelling  
-📊 Currently learning Tableau and SQL  
-💼 Working on data-driven AI projects with CABS  
+📊 Currently learning SQL  
+💼 Working on AI projects with CABS  
 📍 Based in the SF Bay Area  
-💬 Interested in chatting about branding or marketing strategies powered by data  
+💬 Interested in chatting about branding or marketing strategies using data  
 🎵 Fun fact: I love dancing!  
 📫 Contact me: mkim65@berkeley.edu
 
 ---
 
 
-### 🛠️ Programming & Data Tools
+### 🛠️ Programming & Data Skills
 
 🐍 Python • 📊 Data analysis & automation  
 🗃️ SQL • Querying databases  
@@ -21,7 +21,7 @@
 
 ---
 
-### 🎯 Marketing Tools
+### 🎯 Marketing Skills
 - HubSpot (CRM, Email Automation)
 - Canva (Content & Social Design)
 - WordPress (Website & Blog CMS)
