@@ -30,6 +30,9 @@
 
 ---
 
-### 🔗 Socials
+### 🤝 Let's Connect
+
+💡 I'm currently open to new roles and collaborations in the data/marketing space.  
+If you know of any exciting projects or resources, feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minjikim9856/)
