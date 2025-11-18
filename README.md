@@ -13,10 +13,10 @@
 
 ### 🛠️ Programming & Data Skills
 
-🐍 SQL, Excel, Google Sheets - Data querying & analysis
-🗃️ R, Python - Statistical modeling & data visualization  
-📈 Tableau -  Data visualization  
-📉 SAP, QuickBooks, HubSpot - CRM & financial data systems
+- 🐍 SQL, Excel, Google Sheets - Data querying & analysis
+- 🗃️ R, Python - Statistical modeling & data visualization  
+- 📈 Tableau -  Data visualization  
+- 📉 SAP, QuickBooks, HubSpot - CRM & financial data systems
 
 
 ---
