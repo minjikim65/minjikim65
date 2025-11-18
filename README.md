@@ -13,16 +13,16 @@
 
 ### 🛠️ Programming & Data Skills
 
-- 🐍 SQL, Excel, Google Sheets - Data querying & analysis
-- 🗃️ R, Python - Statistical modeling & data visualization  
+- 🐍 SQL, Excel, Google Sheets - Data querying & Analysis
+- 🗃️ R, Python - Statistical modeling & Data visualization  
 - 📈 Tableau -  Data visualization  
-- 📉 SAP, QuickBooks, HubSpot - CRM & financial data systems
+- 📉 SAP, QuickBooks - Financial data systems
 
 
 ---
 
 ### 🎯Other SKills
-- CRM & Website ( Hubspot, WordPress)
+- CRM & Website (Hubspot, WordPress)
 - Brand & Content Design (Canva, Adobe Illustrator)  
 
 
