@@ -1,12 +1,12 @@
 ## 👋 Hi, I'm Minji Kim
 
-🎓 UC Berkeley Statistics Graduate 
-📊 Focused on data-driven business & marketing strategy 
-💼 Experienced in business analytics, financial operations, and strategic marketing.
-📍 Based in the SF Bay Area  
-🎵 Fun fact: Former dance TikToker (200K+ followers, 2M likes)
-🎵 Fun fact: Co-founder of an online dessert brand
-📫 Contact me: mkim65@berkeley.edu
+- 🎓 UC Berkeley Statistics Graduate 
+- 📊 Focused on data-driven business & marketing strategy 
+- 💼 Experienced in business analytics, financial operations, and strategic marketing.
+- 📍 Based in the SF Bay Area  
+- 🎵 Fun fact 1: Former dance TikToker (200K+ followers, 2M likes)
+- 🎵 Fun fact 2: Co-founder of an online dessert brand
+- 📫 Contact me: mkim65@berkeley.edu / minjikim.ready@gmail.com
 
 ---
 
