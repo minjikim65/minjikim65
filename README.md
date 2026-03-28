@@ -35,3 +35,4 @@
 If you know of any exciting projects or resources, feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minjikim9856/)
+#
