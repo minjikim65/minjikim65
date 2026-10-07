@@ -1,22 +1,24 @@
 ## 👋 Hi, I'm Minji Kim
 
 - 🎓 UC Berkeley Statistics Graduate 
-- 📊 Focused on data-driven business & marketing strategy 
-- 💼 Experienced in business analytics, financial operations, and strategic marketing.
+- 📊 Focused on data-driven business
+- 💼 Experienced in financial operations, business analytics, and strategic marketing.
+- 💼 Financial & Managerial Accounting Associate (FMAA) — Institute of Management Accountants
 - 📍 Based in the SF Bay Area  
-- 🎵 Fun fact 1: Former dance TikToker (200K+ followers, 2M likes)
+- 🎵 Fun fact 1: Former dance TikToker 
 - 🎵 Fun fact 2: Co-founder of an online dessert brand
-- 📫 Contact me: mkim65@berkeley.edu / minjikim.ready@gmail.com
+- 🎵 Fun fact 3: Wine Certificate WSET Level 1 
+- 📫 Contact me: minjikim.ready@gmail.com
 
 ---
 
 
 ### 🛠️ Programming & Data Skills
 
-- 🐍 SQL, Excel, Google Sheets - Data querying & Analysis
-- 🗃️ R, Python - Statistical modeling & Data visualization  
-- 📈 Tableau -  Data visualization  
-- 📉 SAP, QuickBooks - Financial data systems
+- 🐍 SQL, Excel, Google Sheets
+- 🗃️ R, Python 
+- 📈 Tableau
+- 📉 SAP, QuickBooks
 
 
 ---
